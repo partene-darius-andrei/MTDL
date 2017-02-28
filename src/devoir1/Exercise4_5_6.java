@@ -5,7 +5,7 @@ import java.awt.*;
 /**
  * Created by Darius on 2/28/2017.
  */
-public class Exercise4 {
+public class Exercise4_5_6 {
 
     public static void main(String[] args) {
         System.out.println(distance(0,0,2,0));
